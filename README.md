@@ -18,7 +18,9 @@ Some feature of application
 
 
 Requirement:
+
 1)Python 3.8
+
 2)bcrypt
 
 

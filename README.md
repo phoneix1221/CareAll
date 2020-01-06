@@ -17,7 +17,7 @@ Some feature of application
 8) can see reviews/rating of opposite category user.
 
 
-Requirement:
+Requirements:
 
 1)Python 3.8
 

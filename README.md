@@ -16,6 +16,12 @@ Some feature of application
 
 8) can see reviews/rating of opposite category user.
 
+
+Requirement:
+1)Python 3.8
+2)bcrypt
+
+
 Execution:
 Step 1
 

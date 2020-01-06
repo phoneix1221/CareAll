@@ -28,5 +28,5 @@ Step 2
 run app.py from terminal which can be found in path careall\projectfiles\
 
 
-Recomendation:
+Note:
 I haven't applied any form input check so plz type inputs carefully otherwise you will run into errors.

@@ -22,7 +22,7 @@ Install this required packages before execution
 
 Step 2
 
-run app.py from terminal 
+run app.py from terminal which can be found in path careall\projectfiles\
 
 
 Recomendation:

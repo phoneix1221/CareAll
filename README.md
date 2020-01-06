@@ -13,11 +13,11 @@ some feature of application
 8)can see reviews/rating of opposite category user.
 
 Execution:
-Step 1:
-  install these required packages before execution
-  1)bcrypt
-Step 2:
-  run app.py from terminal 
+Step 1
+ install these required packages before execution
+ 1)bcrypt
+Step 2
+ run app.py from terminal 
 
 
 Recomendation:

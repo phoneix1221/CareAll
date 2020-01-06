@@ -3,7 +3,7 @@ console application for taking care of old people by caretakers(young people)
 
 This is a console application written in python with connectivity with sqlite3 database
 
-some feature of application
+Some feature of application
 1) signin and signup for both type of users (caretakers and care needers).
 2) Both type of users can search each other.
 3) carenneder can allocated fund for caretakers.
@@ -14,10 +14,14 @@ some feature of application
 
 Execution:
 Step 1
- install these required packages before execution
- 1)bcrypt
+
+Install this required packages before execution
+
+1)bcrypt
+
 Step 2
- run app.py from terminal 
+
+run app.py from terminal 
 
 
 Recomendation:
